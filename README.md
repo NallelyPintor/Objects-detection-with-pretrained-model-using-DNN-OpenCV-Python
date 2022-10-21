@@ -2,7 +2,8 @@
 
 ## Detection of 20 objects with pretrained model using OpenCV DNN | Python in real time
 
-```classes = {0:"background", 1:"aeroplane", 2:"bicycle",
+```
+classes = {0:"background", 1:"aeroplane", 2:"bicycle",
           3:"bird", 4:"boat",
           5:"bottle", 6:"bus",
           7:"car", 8:"cat",
